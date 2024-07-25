@@ -30,31 +30,31 @@ Para realizar la instalación de angular y del proyecto  bash
 
 Página de bienvenida al usuario, aquí se implementa una vista general de la aplicación, en cuanto a inicio de sesión, compras y vista de productos.
 
-![Inicio](https://github.com/user-attachments/assets/560f955f-f75e-4426-be30-43bcf937f8dc)
+![Inicio](https://github.com/user-attachments/assets/3de965a9-b5dd-46a2-930c-36d3155830fb)
 
 En este apartado se puede observar un apartado dedicad a la visualización de la información del usuario, asi como también la opción de actualización de su información  
 
-![Informacion de cuenta](https://github.com/user-attachments/assets/7de3978b-218c-4688-93ec-e8ad8d7195c9)
+![Informacion de cuenta](https://github.com/user-attachments/assets/b14e083f-e453-4e79-ba56-6fb57503d933)
 
 Se implemento un apartado para registro de usuarios   
 
-![Registro usuarios](https://github.com/user-attachments/assets/2dca4b71-9854-4125-9169-e850380e7dca)
+![Registro usuarios](https://github.com/user-attachments/assets/fcd29ea5-be07-4b30-880a-41eade9fbd72)
 
 Una vez registrados puede iniciar sesión en su cuenta
 
-![Inicio de sesion](https://github.com/user-attachments/assets/484e9ee7-a4f1-407b-969d-3c407fde1600)
+![Inicio de sesion](https://github.com/user-attachments/assets/bb7b3135-c661-40a4-b57a-5618fbe31d55)
 
 De igual manera se aplicó un carrito de compra que va a contener todos los productos que se van a comprar
 
-![Carrito](https://github.com/user-attachments/assets/d8feba19-baad-46c5-bd4d-7083d70defd8)
+![Carrito](https://github.com/user-attachments/assets/f9cbef4c-b037-40bb-8c29-01a0bfc4a3ee)
 
 Además de agrego un apartado que permita ingresar la ubicación e información extra del usuario
 
-![Inforamcion extra](https://github.com/user-attachments/assets/540889e2-7cd1-440e-b0aa-f0b1598d5a7d)
+![Inforamcion extra](https://github.com/user-attachments/assets/4276b933-f3dd-4474-a0fb-1c6b3c44d308)
 
 Finalmente se obtiene la factura generada y correspondiente al usuario quien la compro
 
-![Factura](https://github.com/user-attachments/assets/f21cc52a-b601-4a74-95ce-faab84e681d3)
+![Factura](https://github.com/user-attachments/assets/8eb42933-90a1-4af2-8568-9ee2e72c1e06)
 
 Cabe recalcar que esta aplicación es responsiva y se puede adaptar a distintos dispositivos.
 
